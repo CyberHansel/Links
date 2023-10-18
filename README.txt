@@ -11,6 +11,9 @@ How to find info about vulnerabilities
 ▪ D’Crypt (https://www.d-crypt.com) 
 ▪ Security Magazine (https://www.securitymagazine.com) 
 
+Onlinetools
+▪ https://www.ssllabs.com/ssltest/index.html
+
 ▪ https://thehackernews.com/
 ▪ https://portswigger.net/daily-swig
 ▪ https://www.pardrosibu.lv/kategorijas/kiberdrosiba/
