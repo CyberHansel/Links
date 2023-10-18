@@ -11,3 +11,11 @@ How to find info about vulnerabilities
 ▪ D’Crypt (https://www.d-crypt.com) 
 ▪ Security Magazine (https://www.securitymagazine.com) 
 
+▪ https://thehackernews.com/
+▪ https://portswigger.net/daily-swig
+▪ https://www.pardrosibu.lv/kategorijas/kiberdrosiba/
+▪ https://latesthackingnews.com/
+▪ https://jeffreyappel.nl/microsoft-defender-for-endpoint-series-advanced-hunting-and-custom-detections-part8/
+▪ 
+▪ 
+▪ 
