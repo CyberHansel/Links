@@ -1,3 +1,4 @@
+How to find info about vulnerabilities
 ▪ Packet Storm (https://packetstormsecurity.com) 
 ▪ Dark Reading (https://www.darkreading.com) 
 ▪ Trend Micro (https://www.trendmicro.com)
